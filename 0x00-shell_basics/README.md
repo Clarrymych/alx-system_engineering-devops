@@ -1,1 +1,1 @@
-script that changes to home directory
+Display contents in a long format
