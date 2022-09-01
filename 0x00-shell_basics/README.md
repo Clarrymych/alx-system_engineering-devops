@@ -1,1 +1,1 @@
-Display contents in a long format
+display contents in a long format
