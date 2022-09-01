@@ -1,1 +1,1 @@
-working directory to user home directory
+display current directory contents including hidden files
