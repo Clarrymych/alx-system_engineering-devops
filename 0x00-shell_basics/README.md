@@ -1,1 +1,1 @@
-a script that prints
+Displaying the contents list of current directory
