@@ -1,1 +1,1 @@
-display contents in a long format
+script changes to home directory
